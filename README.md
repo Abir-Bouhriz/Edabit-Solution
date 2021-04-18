@@ -23,6 +23,19 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Convert Minutes Into Seconds](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/convertMinutesIntoSeconds.js)
  - [Return the Next Number from the Integer Passed](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/nextNumber.js)
  - [Area Of Triangle](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/areaOfTriangle.js)
+ - [Convert Age To Days](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/convertAgeToDays.js)
+ - [Buggy Code Part 1](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCodePart1.js)
+ - [First Element In Array](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/FirstElementInArray.js)
+ - [Power Calculator](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/powerCalculator.js)
+ - [Convert Hours Into Seconds](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/convertHoursIntoSeconds.js)
+ - [Maximum Edge Of Triangle](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/maximumEdgeOfTriangle.js)
+ - [Perimeter Of A Rectangle](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/perimeterOfRectangle.js)
+ - [Correct The Mistakes](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/correctTheMistakes.js)
+ - [Number Less Than Or Equal To Zero](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/numberLessOrEqualToZero.js)
+ - [Sum Of Polygon Angles](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/sumOfPolygonAngles.js)
+ - [Basketball Points](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/basketballPoints.js)
+ - [Basic Variable Assignment](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/basicVariableAssignment.js)
+ - [Less Than 100](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/lessThan100.js)
  
 
 ## Team:
