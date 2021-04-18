@@ -3,7 +3,7 @@
 ![GitHub license](https://img.shields.io/github/license/Mohammed-Benotmane/Hackerrank-Solution.svg)
 ![Jetlight studio](https://img.shields.io/badge/Made%20by-Jetlight%20studio-blue.svg?color=082544)
 
-<img src="https://www.google.com/search?q=edabit+logo&sxsrf=ALeKk02s1-FGlO8hqaHKNZAISeyHh9K1Jw:1618745150520&tbm=isch&source=iu&ictx=1&fir=zXrz9Gm3xr6QhM%252C16JrLS34wTdRQM%252C_&vet=1&usg=AI4_-kQaDJwzk0YoK9j4_UhnVCkecKz8ng&sa=X&ved=2ahUKEwiJubbN14fwAhWjz4UKHcHxDkgQ9QF6BAgFEAE#imgrc=zXrz9Gm3xr6QhM" width=200 />
+<img src="logo/edabit.png" width=400 />
 
 ## What is Edabit ?
 Edabit is an online collection of coding challenges in 8 languages, including C++, JavaScript, and Python. They provide software engineers with small challenges that help them advance their skills quickly. ... Users can also create their own collections, which group together different coding challenges
