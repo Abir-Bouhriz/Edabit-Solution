@@ -41,6 +41,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Using The && Operator](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/operator%26%26.js)
  - [Are The Numbers Equal?](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/numbersEqual.js)
  - [Football Points](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/footballPoints.js)
+ - [Convert Hours & Minutes Into Seconds](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/convertHours%26MinutesIntoSeconds.js)
  
 
 ## Team:
