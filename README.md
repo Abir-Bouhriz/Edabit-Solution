@@ -38,6 +38,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Less Than 100](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/lessThan100.js)
  - [Buggy Code Part 5](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCodePart5.js)
  - [The Farm Problem](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/farmProblem.js)
+ - [Using The && Operator](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/operator%26%26.js)
  
 
 ## Team:
