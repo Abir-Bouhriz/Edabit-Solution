@@ -36,6 +36,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Basketball Points](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/basketballPoints.js)
  - [Basic Variable Assignment](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/basicVariableAssignment.js)
  - [Less Than 100](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/lessThan100.js)
+ - [Buggy Code Part 5](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCodePart5.js)
  
 
 ## Team:
