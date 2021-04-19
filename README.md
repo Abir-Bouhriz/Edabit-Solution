@@ -40,6 +40,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [The Farm Problem](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/farmProblem.js)
  - [Using The && Operator](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/operator%26%26.js)
  - [Are The Numbers Equal?](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/numbersEqual.js)
+ - [Football Points](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/footballPoints.js)
  
 
 ## Team:
