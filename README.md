@@ -49,6 +49,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Boolean To String Conversion](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/booleanToStringConversion.js)
  - [Frame Per second](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/framesPerSecond.js)
  - [Let's Fuel Up](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/letsFuelUp.js)
+ - [Miserable Parody Of Calculator](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/miserableParodyOfCalculator.js)
  
 
 ## Team:
