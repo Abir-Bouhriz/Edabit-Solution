@@ -48,6 +48,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [I'd Like A New Shade Of Blue](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/newShadeOfBlue.js)
  - [Boolean To String Conversion](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/booleanToStringConversion.js)
  - [Frame Per second](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/framesPerSecond.js)
+ - [Let's Fuel Up](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/letsFuelUp.js)
  
 
 ## Team:
