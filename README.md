@@ -50,6 +50,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Frame Per second](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/framesPerSecond.js)
  - [Let's Fuel Up](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/letsFuelUp.js)
  - [Miserable Parody Of Calculator](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/miserableParodyOfCalculator.js)
+ - [Buggy Code Part 4](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCodePart4.js)
  
 
 ## Team:
