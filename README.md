@@ -45,6 +45,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Equality Check](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/equalityCheck.js)
  - [Buggy Code Part 7](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCodePart7.js)
  - [Profitable Gamble](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/profitableGamble.js)
+ - [I'd Like A New Shade Of Blue](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/newShadeOfBlue.js)
  
 
 ## Team:
