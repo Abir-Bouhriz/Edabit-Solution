@@ -56,6 +56,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Moving House](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/movingHouse.js)
  - [Pair Management](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/pairManagement.js)
  - [Compare Strings By Count Of Characters](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/compareStringsByCountOfCharacters.js)
+ - [Is The String Empty ?](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/isTheStringEmpty.js)
  
 
 ## Team:
