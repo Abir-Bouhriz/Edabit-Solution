@@ -52,6 +52,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Miserable Parody Of Calculator](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/miserableParodyOfCalculator.js)
  - [Buggy Code Part 4](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCodePart4.js)
  - [Byggy Code Part 2](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCodePart2.js)
+ - [Return Negative](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/returnNegative.js)
  
 
 ## Team:
