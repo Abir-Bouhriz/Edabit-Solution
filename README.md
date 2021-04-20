@@ -55,6 +55,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Return Negative](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/returnNegative.js)
  - [Moving House](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/movingHouse.js)
  - [Pair Management](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/pairManagement.js)
+ - [Compare Strings By Count Of Characters](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/compareStringsByCountOfCharacters.js)
  
 
 ## Team:
