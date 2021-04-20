@@ -43,6 +43,8 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Football Points](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/footballPoints.js)
  - [Convert Hours & Minutes Into Seconds](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/convertHours%26MinutesIntoSeconds.js)
  - [Equality Check](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/equalityCheck.js)
+ - [Buggy Code Part 7](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCodePart7.js)
+ - [Profitable Gamble](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/profitableGamble.js)
  
 
 ## Team:
