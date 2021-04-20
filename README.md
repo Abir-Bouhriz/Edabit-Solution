@@ -59,6 +59,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Is The String Empty ?](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/isTheStringEmpty.js)
  - [Is Integer Divisible By Five ?](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/integerIsDivisibleByFive.js)
  - [Multiple Of 100](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/multipleOf100.js)
+ - [Recursion Length Of String](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/recursionLengthOfString.js)
  
 
 ## Team:
