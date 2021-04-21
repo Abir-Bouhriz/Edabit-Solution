@@ -62,7 +62,8 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Recursion Length Of String](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/recursionLengthOfString.js)
  - [Return String As An Integer](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/returnStringAsAnInteger.js)
  - [Area Of Rectangle](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/areaOfRectangle.js)
- 
+ - [Minimal I: If Boolean Then Boolean](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/minimal1.js)
+  
 
 ## Team:
 [Jetlighters](https://github.com/JetLightStudio) having fun.
