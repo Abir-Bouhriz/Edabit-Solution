@@ -25,7 +25,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Area Of Triangle](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/areaOfTriangle.js)
  - [Convert Age To Days](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/convertAgeToDays.js)
  - [Buggy Code Part 1](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCodePart1.js)
- - [First Element In Array](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/FirstElementInArray.js)
+ - [First Element In Array](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/firstElementInArray.js)
  - [Power Calculator](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/powerCalculator.js)
  - [Convert Hours Into Seconds](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/convertHoursIntoSeconds.js)
  - [Maximum Edge Of Triangle](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/maximumEdgeOfTriangle.js)
