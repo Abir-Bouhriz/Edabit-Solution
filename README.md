@@ -65,6 +65,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Minimal I: If Boolean Then Boolean](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/minimal1.js)
  - [Concatenate First & Last Name Into A String](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/concatenateFirstLastName.js)
  - [Buggy Code](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCode.js)
+ - [Destructuring Assignment](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/destructuringAssignment.js)
   
 
 ## Team:
