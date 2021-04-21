@@ -67,6 +67,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Buggy Code](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCode.js)
  - [Destructuring Assignment](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/destructuringAssignment.js)
  - [•Nth Even Number](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/nthEvenNumber.js)
+ - [Evaluate An Equation](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/evaluateAnEquation.js)
   
 
 ## Team:
