@@ -68,6 +68,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Destructuring Assignment](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/destructuringAssignment.js)
  - [•Nth Even Number](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/nthEvenNumber.js)
  - [Evaluate An Equation](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/evaluateAnEquation.js)
+ - [Find Out The Leap Year](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/findOutTheLeapYear.js)
   
 
 ## Team:
