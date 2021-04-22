@@ -74,6 +74,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Buggy Code Part 3](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCodePart3.js)
  - [Repeat String](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/repeatString.js)
  - [Reverse An Array](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/reverseAnArray.js)
+ - [Movie Theatre Admittance](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/movieTheatreAdmittance.js)
   
 
 ## Team:
