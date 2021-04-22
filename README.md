@@ -69,6 +69,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [•Nth Even Number](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/nthEvenNumber.js)
  - [Evaluate An Equation](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/evaluateAnEquation.js)
  - [Find Out The Leap Year](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/findOutTheLeapYear.js)
+ - [Solve The Equation](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/solveTheEquation.js)
   
 
 ## Team:
