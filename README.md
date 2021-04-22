@@ -71,6 +71,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Find Out The Leap Year](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/findOutTheLeapYear.js)
  - [Solve The Equation](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/solveTheEquation.js)
  - [Leap Year Function](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/leapYearFunction.js)
+ - [Buggy Code Part 3](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/buggyCodePart3.js)
   
 
 ## Team:
