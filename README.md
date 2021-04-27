@@ -83,6 +83,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [On Off Switches](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/onOffSwitches.js)
  - [50 30 20 Strategy](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/50_30_20_strategy.js)
  - [Among Us Imposer Formula](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/amongUsImposerFormula.js)
+ - [Convert All Array Items To String](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/convertAllArrayItemsToString.js)
   
 
 ## Team:
