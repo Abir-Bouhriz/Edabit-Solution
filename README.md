@@ -77,6 +77,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Movie Theatre Admittance](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/movieTheatreAdmittance.js)
  - [Convert An Array Of Strings To Numbers](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/arrayOfStringsToNumbers.js)
  - [Drinks Allowed](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/drinksAllowed.js)
+ - [Inches To Feet](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/inchesToFeet.js)
   
 
 ## Team:
