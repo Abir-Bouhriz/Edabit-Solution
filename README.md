@@ -80,6 +80,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Inches To Feet](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/inchesToFeet.js)
  - [To The Power Of ___](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/toThePowerOf.js)
  - [Retuen The Last Element In An Array](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/lastElementInAnArray.js)
+ - [On Off Switches](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/onOffSwitches.js)
   
 
 ## Team:
