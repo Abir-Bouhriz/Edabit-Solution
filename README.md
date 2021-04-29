@@ -87,6 +87,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Word Without First Character](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/wordWithoutFirstCharacter.js)
  - [Minimal VI: Ternary Operator](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/minimalVI.js)
  - [Name Greeting!](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/nameGreeting.js)
+ - [Difference Of Volumes Of Cuboids](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/differenceOfVolumesCuboids.js)
   
 
 ## Team:
