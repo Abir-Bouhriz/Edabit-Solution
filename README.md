@@ -91,6 +91,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Concatenating Two Integer Arrays](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/concatenatingTwoIntegerArrays.js)
  - [Triangle and Parallelogram Area Finder](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/triangleAndParallelogram.js)
  - [Sum Greater Than Five](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/sumGreaterThanFive.js)
+ - [Convert an Array to a String](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/convertAnArrayToString.js)
   
 
 ## Team:
