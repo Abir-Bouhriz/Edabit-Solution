@@ -88,6 +88,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Minimal VI: Ternary Operator](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/minimalVI.js)
  - [Name Greeting!](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/nameGreeting.js)
  - [Difference Of Volumes Of Cuboids](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/differenceOfVolumesCuboids.js)
+ - [Concatenating Two Integer Arrays](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/concatenatingTwoIntegerArrays.js)
   
 
 ## Team:
