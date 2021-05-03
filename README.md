@@ -95,6 +95,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [A Simple Task](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/aSimpleTask.js)
  - [Fix the Bug: Simple Array Manipulation](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/fixTheBug.js)
  - [A Day at the Market](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/aDayAtTheMarket.js)
+ - [Weight Convertor](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/weightConvertor.js)
   
 
 ## Team:
