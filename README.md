@@ -99,6 +99,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Kinetic Energy](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/kineticEnergy.js)
  - [Sum Of Minimums](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/sumOfMinimums.js)
  - [Recreating the abs() Function](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/recreatingAbsFunction.js)
+ - [Is the Last Character an "N"?](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/lastCharacterN.js)
   
 
 ## Team:
