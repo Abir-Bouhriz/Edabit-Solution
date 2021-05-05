@@ -100,6 +100,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Sum Of Minimums](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/sumOfMinimums.js)
  - [Recreating the abs() Function](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/recreatingAbsFunction.js)
  - [Is the Last Character an "N"?](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/lastCharacterN.js)
+ - [Find the Area of a (Regular) Hexagon](https://github.com/Abir-Bouhriz/Edabit-Solution/blob/main/tooEasy/areaOfHexagon.js)
   
 
 ## Team:
